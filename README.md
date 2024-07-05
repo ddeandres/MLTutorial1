@@ -1,5 +1,8 @@
 # MLTutorial1
 
+
+![My Image](image.png)
+
 The slides are provided in `tutorials.pdf` and the jupyter notebook file `Tutorial.ipynb` is used for the hands-on tutorials.
 
 software needed: 
